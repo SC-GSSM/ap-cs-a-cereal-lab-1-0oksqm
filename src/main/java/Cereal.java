@@ -20,7 +20,7 @@ public class Cereal
 
     public Cereal(String n, int cals, double fib, double carbs, double cup){
         this.name = n;
-        this.calories = cal;
+        this.calories = cals;
         this.fiber = fib;
         this.carbohydrates = carbs;
         this.cups = cup;
